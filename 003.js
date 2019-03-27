@@ -11,5 +11,4 @@ console.log(10/-"");
 // stroki perevodyatsya v chisla. a stroka "" formatiruetsya kak chislo 0
 console.log(10/+"2,5");
 //Vydaet NaN, tak kak "2,5" ne konvertiruetsya v chislo, v otlichie ot "2.5".
-
-
+//...
